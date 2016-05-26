@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:https://github.com/JamCode/myblog.git
-  branch:gh-pages
+  repo:https://github.com/JamCode/JamCode.github.io.git
+  branch:master
